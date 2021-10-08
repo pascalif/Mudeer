@@ -69,6 +69,7 @@ I am unsure if there is a way to register the configuration automatically with t
 
    The Shortcuts all use the Meta (known as Win or Super outside
    KDE). Below is the explenation of the default bindings.
+
 *** Thirds
     Use Meta + A,S,D for left middle and right thirds respectively.
     
@@ -128,6 +129,28 @@ Below is the list of default shortcuts. Again, Meta in KDE is the Win (or Super)
 | Fullscreen            | Meta+f      |
 | Left half fullscreen  | Meta+Ctrl+f |
 | Right half fullscreen | Meta+Alt+f  |
+
+With a visual representation (! means Shift):
+
+╔═══════════════════════════════════════╗     ╔════════════╗
+║                   f                   ║     ║            ║
+╠═════════════╦═══════════╦═════════════╣     ║    Ctrl    ║
+║      a      ║     s     ║      d      ║     ║            ║
+╠═════════════╩═══════════╬═════════════╣     ╠════════════╣
+║            a!           ║     ...     ║     ║            ║
+╠═════════════╦═══════════╩═════════════╣     ║    Alt     ║
+║     ...     ║            d!           ║     ║            ║
+╠═════════════╩═════╦═══════════════════╣     ╚════════════╝
+║         z!        ║         v!        ║
+╠═════════╦═════════╬═════════╦═════════╣
+║    z    ║    x    ║    c    ║    v    ║
+╠═════════╩═════════╩═════════╬═════════╣
+║              x!             ║   ...   ║
+╠═════════╦═══════════════════╩═════════╣
+║   ...   ║              c!             ║
+╠═════════╬═══════════════════╦═════════╣
+║   ...   ║         s!        ║   ...   ║
+╚═════════╩═══════════════════╩═════════╝
 
 
 ** Troubleshooting
