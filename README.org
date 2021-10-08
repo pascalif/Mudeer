@@ -132,6 +132,7 @@ Below is the list of default shortcuts. Again, Meta in KDE is the Win (or Super)
 
 With a visual representation (! means Shift):
 
+`
     ╔═══════════════════════════════════════╗     ╔════════════╗
     ║                   f                   ║     ║            ║
     ╠═════════════╦═══════════╦═════════════╣     ║    Ctrl    ║
@@ -151,6 +152,7 @@ With a visual representation (! means Shift):
     ╠═════════╬═══════════════════╦═════════╣
     ║   ...   ║         s!        ║   ...   ║
     ╚═════════╩═══════════════════╩═════════╝
+`
 
 
 ** Troubleshooting
