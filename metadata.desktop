@@ -1,13 +1,13 @@
 [Desktop Entry]
 Name=Mudeer
-Comment=Tiling for Ultrawide and Super Ultrawide Monitors
+Comment=Tiling for Ultrawide and Super Ultrawide Monitors (Pac edition)
 Icon=preferences-system-windows-script-test
 Type=Service
 
 X-Plasma-API=javascript
 X-Plasma-MainScript=code/mudeer.js
 
-X-KDE-PluginInfo-Author=Abdulla Bubshait
+X-KDE-PluginInfo-Author=Abdulla Bubshait + Pac
 X-KDE-PluginInfo-Email=darkstego@gmail.com
 X-KDE-PluginInfo-Name=mudeer-ultrawide
 X-KDE-PluginInfo-Version=1.0
